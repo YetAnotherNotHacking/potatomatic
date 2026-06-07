@@ -147,4 +147,18 @@ I have mainly spent this last bit of time rendering and figuring out a v2 in the
 
 For the tire cannon to fit,  we would need to cut about this much out of the secondary element of the shooter. This might be too much, especially because the air cannon would have a ton of kickback
 
-** Total time spent: 6.6 hours **
+<img width="275" height="137" alt="{FAE74DED-575E-4340-B2EE-0EABCBE996A7}" src="https://github.com/user-attachments/assets/1f329881-8136-44d1-b88d-23e2927c4eb4" />
+
+<img width="275" height="137" alt="{FAE74DED-575E-4340-B2EE-0EABCBE996A7}" src="https://github.com/user-attachments/assets/7887b1db-c566-4268-bcc1-312109ac6764" />
+
+I found some stuff I forgot to fillet on the base, so I fixed that.
+
+<img width="304" height="306" alt="{87C08A37-DA23-48ED-8628-2EE8EDFDDD7E}" src="https://github.com/user-attachments/assets/70a24c1f-46fe-4c4c-a70a-e68e514861d3" />
+
+I also added in the screws for the upper motors on the thing.
+
+<img width="178" height="124" alt="{87A86590-1B36-4AEA-9726-24EF89E67897}" src="https://github.com/user-attachments/assets/e5b8e65a-a818-4204-ab72-043035517d4f" />
+
+I added a janky fix to the old potato cannon payload adapter to fit over this screw.
+
+** Total time spent: 6.9 hours **
