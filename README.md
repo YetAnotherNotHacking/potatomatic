@@ -49,9 +49,8 @@ Most of the parts have already been sourced from a decomissioned CR20, the BOM f
 | 9× 1.25" 7/16 Bolts | $5.31 |
 | 13× 7/16 Nuts | $4.94 |
 
-For links to the parts, please see [this document]([url](https://docs.google.com/document/d/13_K_9BwoxUnn-ND7bYpN881mAYJAPF880q18yzIybXw/edit?tab=t.v347oofurjd9).
-
-See the "sourcing" tab for the real BOM. The first page is a general list without prices or source locations. Note that prices are calculated for Utah.
+All of the sourcing and stuff was done on this google doc:
+[https://docs.google.com/document/d/13_K_9BwoxUnn-ND7bYpN881mAYJAPF880q18yzIybXw/edit?usp=sharing]([url](https://docs.google.com/document/d/13_K_9BwoxUnn-ND7bYpN881mAYJAPF880q18yzIybXw/edit?usp=sharing)) See the "sourcing" tab for the real BOM. The first page is a general list without prices or source locations. Note that prices are calculated for Utah.
 
 ## Other notes:
 The plan is to have entirely custom firmware for the turret, it will use a pi 5 that I already have as well as a camera attached to the turret (will have to be built before I can get a good idea of the best place) for targetting automatically. The main control will use the linked arduino stepper controller board with the pi talking to it with serial commands. There is a later intention of mounting it ontop of my friends car for some funny turret activities (dont ask) as well as adapting it for directional antennas to do radio astronomy, connecting to gpredict.
