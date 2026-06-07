@@ -135,4 +135,16 @@ It looks to be about a 13 dollar reduction in cost! I will recalculate the tax a
 
 These are the new totals! (Including tax!!) This is much better than the previous.
 
-** Total time spent: 5.4 hours **
+For the past bit I have been working on the renders of the design and figuring out any improvements i can make with the extra time. I have been measuing our design, and it would not be that difficult to go pneumatic. A friend told me about their potato cannon when I sent them the render for feedback, and they are using a tire bead setter adapted to shoot the potatos.
+
+Something like this one:
+
+https://www.amazon.com/Handheld-Portable-Inflator-87-116PSI-Operating/dp/B0F8HGR4GK?psc=1
+
+I have mainly spent this last bit of time rendering and figuring out a v2 in the future.
+
+<img width="584" height="390" alt="{FA256CC0-AC7A-445A-9292-F7148306CE44}" src="https://github.com/user-attachments/assets/d3bde2da-ce53-4990-bf56-03999f23bf1a" />
+
+For the tire cannon to fit,  we would need to cut about this much out of the secondary element of the shooter. This might be too much, especially because the air cannon would have a ton of kickback
+
+** Total time spent: 6.6 hours **
