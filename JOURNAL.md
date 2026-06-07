@@ -96,3 +96,14 @@ I fixed the fillets on the screw holes for both of the models.
 <img width="223" height="212" alt="{ACE0F1C9-FE56-4CE5-AC6E-F00398BDCB2A}" src="https://github.com/user-attachments/assets/64ae7ba6-50a5-4633-9970-f3669dfd9b00" />
 
 The smaller inside u was limited to being only 4 mm, thats because of the face you see above. The arms are 7.5mm radius on the fillets, but the ones for the center u are only 4.
+
+<img width="372" height="353" alt="{D2906C6E-7620-4179-91A3-5773D95EE3D0}" src="https://github.com/user-attachments/assets/da50139d-be2a-481a-8717-090bff30983b" />
+<img width="240" height="166" alt="{856D74C0-98F6-4C01-9C2F-BFD9C98CC4D5}" src="https://github.com/user-attachments/assets/b93046ea-9672-4e3d-8058-c1b04870d9c1" />
+<img width="324" height="272" alt="{DFD8472D-B1A9-49D4-8ADF-0C27886A4A51}" src="https://github.com/user-attachments/assets/afce3a52-dbcc-4c43-ac97-e33a1702038e" />
+
+
+I realized that the motor sticking out was sort of optional, so I decided in favor of using a little less filament to move it in like you see here.
+
+<img width="369" height="111" alt="{35516E54-B6FD-4C0E-BD6D-D6E2F74AFDF5}" src="https://github.com/user-attachments/assets/f014063e-b142-4f42-a617-c7c768914264" />
+
+I had to increase the height of the feet for the motor to not be clipping into the ground. This is because the motor was lowered to the height of the bottom of the platform, both to make printing a little easier but also do make the shaft not clip into the arm while it rotated.
