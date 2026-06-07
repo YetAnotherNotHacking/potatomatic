@@ -49,8 +49,7 @@ Most of the parts have already been sourced from a decomissioned CR20, the BOM f
 | 9× 1.25" 7/16 Bolts | $5.31 |
 | 13× 7/16 Nuts | $4.94 |
 
-For links to the parts, please see [this document]([url](https://docs.google.com/document/d/13_K_9BwoxUnn-ND7bYpN881mAYJAPF880q18yzIybXw/edit?tab=t.v347oofurjd9
-)).
+For links to the parts, please see [this document]([url](https://docs.google.com/document/d/13_K_9BwoxUnn-ND7bYpN881mAYJAPF880q18yzIybXw/edit?tab=t.v347oofurjd9).
 
 See the "sourcing" tab for the real BOM. The first page is a general list without prices or source locations. Note that prices are calculated for Utah.
 
