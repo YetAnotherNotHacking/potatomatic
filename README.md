@@ -1,0 +1,58 @@
+<p align="center">
+  <img 
+    src="https://github.com/user-attachments/assets/a25e681f-5559-4282-b565-6aaf46b99da1"
+    alt="potatomatic-cover"
+    style="max-width: 100%; height: auto;"
+  />
+</p>
+
+# Potatomatic turret system
+Potatomatic started as a project to move a 5.5lb potato cannon reliably on a robotic turret mechanism, and to have intelligent tracking allowing it to automatically control itself for a majority of it's operation. We then realized that its super simple to make it adaptable to anything! So in the end, this project is a robust 2 axis gimbal with a mounting solution allowing anything to be mounted easily for use in the future.
+
+## Bom:
+Most of the parts have already been sourced from a decomissioned CR20, the BOM for this is only my BOM. Sorry for any inconvenience.
+
+## Project Cost Breakdown
+
+### Summary
+
+| Category | With Filament | Without Filament |
+|----------|---------------|------------------|
+| Total (pre-tax) | $158.38 | $116.54 |
+| Amazon Section | $123.16 (~$132.34 w/ tax) | $84.22 (~$90.50 w/ tax) |
+| Bolt Depot Section | $26.04 | $26.04 |
+
+---
+
+## Amazon Parts
+
+| Item | Cost |
+|------|------|
+| Filament | $38.94 |
+| Controller (Arduino + stepper driver combo) | $17.83 |
+| Stepper output flanges | $6.99 |
+| DC-DC Step Down (24V → 12V) | $9.99 |
+| Barrel Power Connector | $3.97 |
+| Motor Cabling | $7.89 |
+| C13 Socket | $5.99 |
+| Thrust Bearings (2× 15×28×2mm) | $12.38 |
+| Thrust Bearing (1× 80×105×4mm) | $9.19 |
+| M3 Screw Set | $9.99 |
+
+---
+
+## Bolt Depot Parts
+
+| Item | Cost |
+|------|------|
+| 4× 1.5" 7/16 Bolts | $2.72 |
+| 9× 1.25" 7/16 Bolts | $5.31 |
+| 13× 7/16 Nuts | $4.94 |
+
+For links to the parts, please see [this document]([url](https://docs.google.com/document/d/13_K_9BwoxUnn-ND7bYpN881mAYJAPF880q18yzIybXw/edit?tab=t.v347oofurjd9
+)).
+
+See the "sourcing" tab for the real BOM. The first page is a general list without prices or source locations. Note that prices are calculated for Utah.
+
+## Other notes:
+The plan is to have entirely custom firmware for the turret, it will use a pi 5 that I already have as well as a camera attached to the turret (will have to be built before I can get a good idea of the best place) for targetting automatically. The main control will use the linked arduino stepper controller board with the pi talking to it with serial commands. There is a later intention of mounting it ontop of my friends car for some funny turret activities (dont ask) as well as adapting it for directional antennas to do radio astronomy, connecting to gpredict.
