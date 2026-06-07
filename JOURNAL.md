@@ -107,3 +107,7 @@ I realized that the motor sticking out was sort of optional, so I decided in fav
 <img width="369" height="111" alt="{35516E54-B6FD-4C0E-BD6D-D6E2F74AFDF5}" src="https://github.com/user-attachments/assets/f014063e-b142-4f42-a617-c7c768914264" />
 
 I had to increase the height of the feet for the motor to not be clipping into the ground. This is because the motor was lowered to the height of the bottom of the platform, both to make printing a little easier but also do make the shaft not clip into the arm while it rotated.
+
+<img width="444" height="352" alt="{9C6506C7-CD5B-4DB5-82B6-6C8F6E4AE5F0}" src="https://github.com/user-attachments/assets/cfc14764-9659-4997-bc41-4831274e56fb" />
+
+Here is what the updated model is looking like with the potato cannon payload. I think that I will next work on covers for the side motor arm things.
