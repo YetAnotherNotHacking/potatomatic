@@ -34,7 +34,7 @@ I spent all day from ~1 pm to about ~2 am working on this project, im omitting r
 
 ** Total time spent: 8.6 hours **
 
-# June 5:
+# June 5: Lock in session with friend, doing second stage of the turret and an adapter to hold the potato cannon
 Today is the day I actually remembered that I need to jounrnal. Yesterday's journals were written today, with the images I sent to my friend on Discord. That friend was over today, and kept me motivated and helped me fix the design for the rest of geometry mockup of the project. **I am only logging the time I put in today before he arrived, or what I put in while he was here. His worked is NOT logged as mine**
 
 <img width="741" height="656" alt="{12CD24D2-11A8-425E-81FC-AC176E9FD33C}" src="https://github.com/user-attachments/assets/dbb1689c-e0f1-4875-ab76-82c4cc85c9b5" />
