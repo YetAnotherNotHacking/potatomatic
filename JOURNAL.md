@@ -87,3 +87,12 @@ Above is the new arm design, there are two seperate models since this one could 
 <img width="296" height="235" alt="{D8DE048A-3025-4200-A3A4-52B7ED1DF960}" src="https://github.com/user-attachments/assets/6fff044d-7887-49f8-b7b9-b19f40040eea" />
 
 Above you are able to see what the new full assembly is looking like.
+
+<img width="292" height="225" alt="{B28E8F57-4B07-4C34-807B-87B31B2321DB}" src="https://github.com/user-attachments/assets/fde47a65-57fe-49f4-a4d8-bb69f10fed57" />
+<img width="406" height="208" alt="{05549D3E-0A6F-4EC1-B0DC-5525B9C09E4B}" src="https://github.com/user-attachments/assets/6a166792-bccb-4489-964c-fce3939424b3" />
+
+I fixed the fillets on the screw holes for both of the models.
+
+<img width="223" height="212" alt="{ACE0F1C9-FE56-4CE5-AC6E-F00398BDCB2A}" src="https://github.com/user-attachments/assets/64ae7ba6-50a5-4633-9970-f3669dfd9b00" />
+
+The smaller inside u was limited to being only 4 mm, thats because of the face you see above. The arms are 7.5mm radius on the fillets, but the ones for the center u are only 4.
