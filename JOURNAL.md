@@ -161,4 +161,13 @@ I also added in the screws for the upper motors on the thing.
 
 I added a janky fix to the old potato cannon payload adapter to fit over this screw.
 
-** Total time spent: 6.9 hours **
+<img width="260" height="162" alt="{0F7E2F91-2DB1-4600-8CA7-B893A32EEE5B}" src="https://github.com/user-attachments/assets/08719ee2-6327-4aa5-994b-cfad45efe05a" />
+
+I added these foot covers to increase the surface contact the feet have. I might make this texturing in the future for better grip, but for now I will just plan to put cat tongue tape onto it.
+
+For context, this is what it looked like before:
+
+<img width="176" height="160" alt="{A0DBF313-4105-41BB-80D6-286B5AE7AF1B}" src="https://github.com/user-attachments/assets/c4d4b981-55ff-4b52-8592-3b466a816b78" />
+
+
+** Total time spent: 7.0 hours **
