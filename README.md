@@ -53,7 +53,18 @@ See the "sourcing" tab for the real BOM. The first page is a general list withou
 | 9× 1.25" 7/16 Bolts | $5.31 |
 | 13× 7/16 Nuts | $4.94 |
 
+## 3D model
+<img width="762" height="509" alt="{4FDD96C2-EDEC-4343-98A4-A21E9CE5DD90}" src="https://github.com/user-attachments/assets/fca63770-0cd5-4d77-bdb6-b2d4b8eb74ed" />
 
+## Wiring
+Most of the wiring will be a figure it out kind of thing.
+
+Roughly:
+
+Mains power -> Printer PSU -> Step down converter -> control board -> cat5a run to the motors with the cable I listed in the BOM on the end
+            -> USB charger -> raspberry pi
+
+The pi will have a webcam conencted, and serial connected to the control board. The wiring for this project is very simple, there is a limited number of electrical components other than the motors and camera and control boards. The control board does almost everything, if you look at what I linked its a steal honestly.
 
 ## Other notes:
 The plan is to have entirely custom firmware for the turret, it will use a pi 5 that I already have as well as a camera attached to the turret (will have to be built before I can get a good idea of the best place) for targetting automatically. The main control will use the linked arduino stepper controller board with the pi talking to it with serial commands. There is a later intention of mounting it ontop of my friends car for some funny turret activities (dont ask) as well as adapting it for directional antennas to do radio astronomy, connecting to gpredict.
