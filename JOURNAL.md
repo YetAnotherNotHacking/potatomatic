@@ -72,3 +72,7 @@ Above you are able to see the work done for the center element of the turret. I 
 The intention is to print it in this orientation, with tree supports going up to support the screw holes. This fixes the problem before where there was large cavities in these parts that were impossible to print because you cant remove supports from them, and not having supports just wouldn't work on me or my friend's printers. (mine is snapmaker a350, his ender 3 v2, both meh printers compared to a bambu)
 
 I am going to continue working on this, adding screws to the appropriate lengths, verifying tolerances, and then doing the same for the arm assemblies. Hopefully I can keep those identical so the files stay the same, other than a left and right version of them for printing.
+
+<img width="543" height="329" alt="{8547E2E8-D016-4EF7-9B4E-318C335343D5}" src="https://github.com/user-attachments/assets/533465d3-29d9-4c6a-a06a-6e524e759cd8" />
+
+Now all the screws are put in place. Above is what it looks like now.
