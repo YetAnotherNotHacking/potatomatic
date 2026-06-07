@@ -128,4 +128,11 @@ As you can see, my amazon is tweaking. I am still trying to optimize the parts l
 
 I got amazon to work on my thinkpad, idk why my framework wouldnt load the product information. Anyway, I removed the limit switches, removed the drive pulley since I found one with the belt that would work, and fixed the bearings. I will now recalculate the totals.
 
-** Total time spent: 5.2 hours **
+The other two things that I thought I would be able to cut some cost with were the c13 power connectors and the output flanges for the stepper motors. The flanges were 2x6.99, but I found the same thing but a two pack for 1x 6.99 (I didnt look very hard initially, that came back to bite me of course). The footprint appears super similar, so I wont have to modify the design from my understanding. I will now resum, hopefully we are less overbudget :pray:
+It looks to be about a 13 dollar reduction in cost! I will recalculate the tax and see how far over we still are.
+
+<img width="131" height="24" alt="{52462BDD-EF0E-4F46-B97A-9C71E3CCECD3}" src="https://github.com/user-attachments/assets/4acdaec4-27e0-4625-be1d-0ff8d9cba25e" />
+
+These are the new totals! (Including tax!!) This is much better than the previous.
+
+** Total time spent: 5.4 hours **
