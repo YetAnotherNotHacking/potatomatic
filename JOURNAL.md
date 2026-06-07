@@ -171,3 +171,26 @@ For context, this is what it looked like before:
 
 
 ** Total time spent: 7.0 hours **
+
+# June 7: Shipping
+Today I did as much as I could to make sure that the project is ready to ship. I created some basic code to run on the arduino in the cnc sheild, as well as a web gui for control for my rpi I will connect to the sheild. I dont have any of the materials to be able to test this code, but I will assume it works. ChatGPT says it looks good so it DEFINTELY will work. I got the pinouts from ChatGPT, luckily it knew the board and was able to find the pinouts in the grbl wiki for the CNC Sheild v4 to drive the steppers.
+
+This code is very simple for the arudio, you can see it below:
+
+<img width="291" height="432" alt="{6C9B7BE2-F8D2-4B2B-A326-7776407CC1D8}" src="https://github.com/user-attachments/assets/6c005283-26ae-4ac8-b090-54c43a7af13f" />
+
+The plan is to send the commands to the arduino over serial, in the following form: 
+
+0 400\n
+
+Thos would move motor 0 (the python code is assuming this will be the turn motor) right 400 steps from my understanding of how this board works. Its just sending step commands, I really need to expirement with this hardware in person to figure out how to do anything more advanced.
+
+<img width="299" height="206" alt="{6FDD3234-3B3D-4847-9E40-B570ED224381}" src="https://github.com/user-attachments/assets/a048a168-daff-4ba5-a94b-4c7035b51dee" />
+
+This is the very simple web gui, this is mainly just to help me figure out the motors wiring and how they move and respond to the commands, you can see that the two turning motors are seperate (which would not end very well). This is only to test, and it will be fixed when it is some to actually assemble the project. This does ignore the x y and z on the controller board, they will all be used not in that way. Its just sending step commands to the pins on the pcb from my understanding of the way the pcb works from ChatGPT.
+
+Other than the code, I formatted the readme, made the table for the BOM by giving ChatGPT my original one, linked the main BOM, and some other final tweaks for the project.
+
+** Total time spent: 1.6 hours **
+
+
