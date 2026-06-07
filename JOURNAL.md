@@ -59,3 +59,16 @@ The filament on there is an estimate for the iterations needed to get thsi proje
 I need to fix several of the models (like the arms and the wrist part) to be more easily printed, as right now they are all hollow and impractical to put supports inside of, so I will split them apart and fasten them together in some method, likely m3 screws since they are already on the parts list and are easily available.
 
 ** Total Time Spent: 5.6 hours ""
+
+# June 6: Manufacturability
+I am spending today making sure that all of the parts in the design are easily printable with the materials that I have.
+
+<img width="315" height="272" alt="{84A86445-6A24-493F-8E4F-33F0F91A468B}" src="https://github.com/user-attachments/assets/370b5609-f7b1-4d89-9091-96098c2419a6" />
+
+Above you are able to see the work done for the center element of the turret. I split it into two halves and added several (several for the rigidity) m3 screw points to fix the two halves together.
+
+<img width="476" height="324" alt="{E2C26ED9-06B3-45D8-9B5E-A8A21FC8A49A}" src="https://github.com/user-attachments/assets/f9c279c4-a965-43e3-98f3-21ecf55c6486" />
+
+The intention is to print it in this orientation, with tree supports going up to support the screw holes. This fixes the problem before where there was large cavities in these parts that were impossible to print because you cant remove supports from them, and not having supports just wouldn't work on me or my friend's printers. (mine is snapmaker a350, his ender 3 v2, both meh printers compared to a bambu)
+
+I am going to continue working on this, adding screws to the appropriate lengths, verifying tolerances, and then doing the same for the arm assemblies. Hopefully I can keep those identical so the files stay the same, other than a left and right version of them for printing.
