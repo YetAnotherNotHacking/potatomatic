@@ -126,4 +126,6 @@ I will continue to reduce the amazon cost what I can, but I will need about 5.1 
 
 As you can see, my amazon is tweaking. I am still trying to optimize the parts list a little more. I noticed that the thrust bearings were entered wrong, and I am going to have to change them. I also noticed I still had the unused limit switches listed, so I will be removing those as I found the ones that were part of the cr20 and I will plan to use those instead.
 
-** Total time spent: 5.1 hours **
+I got amazon to work on my thinkpad, idk why my framework wouldnt load the product information. Anyway, I removed the limit switches, removed the drive pulley since I found one with the belt that would work, and fixed the bearings. I will now recalculate the totals.
+
+** Total time spent: 5.2 hours **
