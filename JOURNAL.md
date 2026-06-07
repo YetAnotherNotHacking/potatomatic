@@ -76,3 +76,9 @@ I am going to continue working on this, adding screws to the appropriate lengths
 <img width="543" height="329" alt="{8547E2E8-D016-4EF7-9B4E-318C335343D5}" src="https://github.com/user-attachments/assets/533465d3-29d9-4c6a-a06a-6e524e759cd8" />
 
 Now all the screws are put in place. Above is what it looks like now.
+
+<img width="563" height="296" alt="{DCD7BBF9-5F9B-41F5-918E-DBF829EBC35A}" src="https://github.com/user-attachments/assets/9f8c52a3-63cd-4e7b-8796-13bcb0a4f098" />
+<img width="154" height="40" alt="{74F02BAC-A1C1-4202-B171-741E0885B517}" src="https://github.com/user-attachments/assets/037fe596-d482-4a92-86e8-a78514151f47" />
+<img width="188" height="44" alt="{20C95B25-2388-4199-91FA-5655854A429B}" src="https://github.com/user-attachments/assets/5831144c-f4d3-4b75-804a-c2a481c6bbd7" />
+
+Above is the new arm design, there are two seperate models since this one could not simply be flipped around like the other one, it had to be actually mirrored since its not symetric on that axis. I will now assembly it back into the main design, almost all of the joins are broken so I will delete and redo the top half of the turret in the main assembly for that.
