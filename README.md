@@ -22,7 +22,7 @@ See the "sourcing" tab for the real BOM. The first page is a general list withou
 
 | Category | With Filament | Without Filament |
 |----------|---------------|------------------|
-| Total (pre-tax) | $158.38 | $116.54 |
+| Total (inlc-tax) | $158.38 | $116.54 |
 | Amazon Section | $123.16 (~$132.34 w/ tax) | $84.22 (~$90.50 w/ tax) |
 | Bolt Depot Section | $26.04 | $26.04 |
 
