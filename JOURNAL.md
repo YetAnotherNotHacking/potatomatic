@@ -112,4 +112,10 @@ I had to increase the height of the feet for the motor to not be clipping into t
 
 Here is what the updated model is looking like with the potato cannon payload. I think that I will next work on covers for the side motor arm things.
 
-** Total time spent: 3.8 hours **
+I updated the BOM and found cheaper sourcing then McMasterCarr for the bolts (being Bolt Depot, they look pretty trustworthy and the entire cost WITH SHIPPING is less than the cart on mcmaster without.)
+
+Again, here is that BOM:
+
+https://docs.google.com/document/d/13_K_9BwoxUnn-ND7bYpN881mAYJAPF880q18yzIybXw/edit?usp=sharing
+
+** Total time spent: 4.5 hours **
