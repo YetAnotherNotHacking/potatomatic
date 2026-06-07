@@ -112,4 +112,4 @@ I had to increase the height of the feet for the motor to not be clipping into t
 
 Here is what the updated model is looking like with the potato cannon payload. I think that I will next work on covers for the side motor arm things.
 
-** total time spent: 4.8 hours **
+** Total time spent: 3.8 hours **
