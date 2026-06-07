@@ -118,4 +118,9 @@ Again, here is that BOM:
 
 https://docs.google.com/document/d/13_K_9BwoxUnn-ND7bYpN881mAYJAPF880q18yzIybXw/edit?usp=sharing
 
-** Total time spent: 4.5 hours **
+I will continue to reduce the amazon cost what I can, but I will need about 5.1 more hours to get the funding required to build this project.
+
+<img width="215" height="127" alt="{6D8C674E-2109-44D0-B431-AE065116E4EB}" src="https://github.com/user-attachments/assets/e7e4a238-728a-4a19-9996-da72ce2930cc" />
+
+
+** Total time spent: 4.6 hours **
