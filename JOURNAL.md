@@ -122,5 +122,8 @@ I will continue to reduce the amazon cost what I can, but I will need about 5.1 
 
 <img width="215" height="127" alt="{6D8C674E-2109-44D0-B431-AE065116E4EB}" src="https://github.com/user-attachments/assets/e7e4a238-728a-4a19-9996-da72ce2930cc" />
 
+<img width="958" height="347" alt="{46A1C294-DED1-4B96-8726-D10BE9B9392B}" src="https://github.com/user-attachments/assets/c16b89f4-426f-4361-beb3-a6427376f2a4" />
 
-** Total time spent: 4.6 hours **
+As you can see, my amazon is tweaking. I am still trying to optimize the parts list a little more. I noticed that the thrust bearings were entered wrong, and I am going to have to change them. I also noticed I still had the unused limit switches listed, so I will be removing those as I found the ones that were part of the cr20 and I will plan to use those instead.
+
+** Total time spent: 5.1 hours **
