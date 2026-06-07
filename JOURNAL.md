@@ -111,3 +111,5 @@ I had to increase the height of the feet for the motor to not be clipping into t
 <img width="444" height="352" alt="{9C6506C7-CD5B-4DB5-82B6-6C8F6E4AE5F0}" src="https://github.com/user-attachments/assets/cfc14764-9659-4997-bc41-4831274e56fb" />
 
 Here is what the updated model is looking like with the potato cannon payload. I think that I will next work on covers for the side motor arm things.
+
+** total time spent: 4.8 hours **
