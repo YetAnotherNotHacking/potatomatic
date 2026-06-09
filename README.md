@@ -10,7 +10,7 @@
 Potatomatic started as a project to move a 5.5lb potato cannon reliably on a robotic turret mechanism, and to have intelligent tracking allowing it to automatically control itself for a majority of it's operation. We then realized that its super simple to make it adaptable to anything! So in the end, this project is a robust 2 axis gimbal with a mounting solution allowing anything to be mounted easily for use in the future.
 
 ## Bom:
-Most of the parts have already been sourced from a decomissioned CR20, the BOM for this is only my BOM. Sorry for any inconvenience.
+See the BOM.csv for the BOM. It includes everything you would need to build it assuming you had only filament. See the google doc below for what the HackClub funding would be spent on, as thats the materials I still need.
 
 All of the sourcing and stuff was done on this google doc:
 [Google Doc BOM](https://docs.google.com/document/d/13_K_9BwoxUnn-ND7bYpN881mAYJAPF880q18yzIybXw/edit?usp=sharing)
