@@ -193,4 +193,13 @@ Other than the code, I formatted the readme, made the table for the BOM by givin
 
 ** Total time spent: 1.6 hours **
 
+# June 8: Polishing the ship while I wait for review
 
+I already wrote this journal but it looks like I never press commit :sad:
+
+Anyway, today I spent a good deal of time making this ship look a bit better, finalized the BOM with parts not assuming the stuff I already had, made a real wiring diagram, and some other things. I wont go into much detail, this stuff really didnt take that long so ill just show what I did.
+
+<img width="2826" height="1152" alt="2026-06-08_23-26" src="https://github.com/user-attachments/assets/f0b3ad52-2c07-4e0f-9de7-a6abd0ff51fa" />
+<img width="2834" height="1702" alt="2026-06-08_23-27" src="https://github.com/user-attachments/assets/c3b20d44-9afd-49fa-b30f-902cfa816783" />
+
+** Total time spent: 0.4 hours **
