@@ -57,7 +57,7 @@ See the "sourcing" tab for the real BOM. The first page is a general list withou
 <img width="762" height="509" alt="{4FDD96C2-EDEC-4343-98A4-A21E9CE5DD90}" src="https://github.com/user-attachments/assets/fca63770-0cd5-4d77-bdb6-b2d4b8eb74ed" />
 
 ## Wiring
-Below is very professional Google Slides diagram of the wiring. I omitted the pi to better fit on one slide, since its only USB connectors that can go in one place one way.
+Below is very professional Google Slides diagram of the wiring. I omitted the pi to better fit on one slide, since its only USB connectors that can go in one place one way. Note my typo, apparently cat5a doesnt exist. I meant cat5e. I got mixed up with cat6a which I use for my homelab.
 
 <img width="960" height="540" alt="wiring" src="https://github.com/user-attachments/assets/99866ae4-f4be-4b7a-91c1-8cd7548a10c4" />
 
