@@ -57,12 +57,9 @@ See the "sourcing" tab for the real BOM. The first page is a general list withou
 <img width="762" height="509" alt="{4FDD96C2-EDEC-4343-98A4-A21E9CE5DD90}" src="https://github.com/user-attachments/assets/fca63770-0cd5-4d77-bdb6-b2d4b8eb74ed" />
 
 ## Wiring
-Most of the wiring will be a figure it out kind of thing.
+Below is very professional Google Slides diagram of the wiring. I omitted the pi to better fit on one slide, since its only USB connectors that can go in one place one way.
 
-Roughly:
-
-Mains power -> Printer PSU -> Step down converter -> control board -> cat5a run to the motors with the cable I listed in the BOM on the end
-            -> USB charger -> raspberry pi
+<img width="960" height="540" alt="wiring" src="https://github.com/user-attachments/assets/99866ae4-f4be-4b7a-91c1-8cd7548a10c4" />
 
 The pi will have a webcam conencted, and serial connected to the control board. The wiring for this project is very simple, there is a limited number of electrical components other than the motors and camera and control boards. The control board does almost everything, if you look at what I linked its a steal honestly.
 
