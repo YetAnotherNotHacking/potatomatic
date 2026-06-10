@@ -203,3 +203,24 @@ Anyway, today I spent a good deal of time making this ship look a bit better, fi
 <img width="2834" height="1702" alt="2026-06-08_23-27" src="https://github.com/user-attachments/assets/c3b20d44-9afd-49fa-b30f-902cfa816783" />
 
 ** Total time spent: 0.4 hours **
+
+# June 9: Fix minor model issues
+
+We realized that there was no method in the model of being able to tention the main belt for the pan axis. We changed the model to use slots rather than holes for mounting that motor with 5mm of movement to allow proper tentioning once the model is built.
+
+<img width="698" height="494" alt="{DE3CC4B5-9CE0-44D4-93F7-275BC98AD09F}" src="https://github.com/user-attachments/assets/5b5139c6-7d75-471b-9208-111f164c952c" />
+
+Another thing we fixed was the pulley being seperate in the turret base model
+
+<img width="715" height="528" alt="{19069945-130D-413F-8599-325747CD0E2C}" src="https://github.com/user-attachments/assets/7ac4433b-348e-46e3-9857-af76f471a24b" />
+
+Before they were seperate bodies that would not export and print correctly, but my friend reminded me that the combine tool exists, and we were able to get that fixed. I will lend him filament and he will lend me some machine time on his printer.
+
+I have also been running the printer for some of the parts. Below are images of what they are turning out like.
+
+<img width="1090" height="1448" alt="image" src="https://github.com/user-attachments/assets/27634333-56cc-4b90-8446-b70f51ef4365" />
+<img width="1090" height="1448" alt="image" src="https://github.com/user-attachments/assets/39863608-ea07-4c13-a4a4-4f44ba30fea1" />
+<img width="1090" height="1448" alt="image" src="https://github.com/user-attachments/assets/663594b4-a3d3-4d0d-95b6-69ae5f0f08a7" />
+
+
+** Total time spent: 0.5 hours **
