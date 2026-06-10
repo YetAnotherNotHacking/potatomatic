@@ -32,6 +32,26 @@ Here you can see roughly where I ended. I did end up putting some flanges on the
 
 I spent all day from ~1 pm to about ~2 am working on this project, im omitting roughly the amount of time where I wasnt actively doing cad/only staring at the screen figuring out how to do something.
 
+Future edit: I realize I underdocumented this time. To back up these times, here is the fusion save logs for the files I was working on. Lapse wasnt working for me on brave or firefox when I did this, so no lapse sadly. I cante tell whats happening with the time zone, I closed my laptop a little before 2 if I remember right.
+
+Master assembly logs:
+
+<img width="565" height="385" alt="{49FA15DD-B45C-48A6-B1F6-3984A9533B8C}" src="https://github.com/user-attachments/assets/fc5368db-f519-4902-a33b-9d88f1c5c0d5" />
+
+Base (the big platform) logs:
+
+<img width="285" height="440" alt="{0E2341AA-A63B-40C0-A156-0819D153B60E}" src="https://github.com/user-attachments/assets/4369da41-05ff-470c-8cf9-a35d52984157" />
+
+Search history of thrust bearings:
+
+<img width="1006" height="216" alt="{82E3026B-17E8-4CB0-BB31-0B88B1DBE8B6}" src="https://github.com/user-attachments/assets/e7c065af-1f7f-406c-8216-0d98935ae493" />
+
+THe little bit I was scrolling to see if anyone had a similar design
+
+<img width="979" height="76" alt="{0828613C-51AA-43DF-A46E-E4A18FE4D5B8}" src="https://github.com/user-attachments/assets/cd3b6f6e-94ff-43e4-9ab4-04b15e46287a" />
+
+Everything seems ahead by like 2 or 3 hours, cant tell you why honestly. My browser is usually wrong, but my laptop with fusion has the correct tiem right now. I grabbed most of these screenshots/phone pictures of the cad from Discord that I sent to my friend when I realized I did all of that work without journaling. LMK on slack if you are reviewing this time and are still skeptical, I can provide any logs or whatever you need.
+
 ** Total time spent: 8.6 hours **
 
 # June 5: Lock in session with friend, doing second stage of the turret and an adapter to hold the potato cannon
