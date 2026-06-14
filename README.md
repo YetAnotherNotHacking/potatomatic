@@ -9,6 +9,9 @@
 # Potatomatic turret system
 Potatomatic started as a project to move a 5.5lb potato cannon reliably on a robotic turret mechanism, and to have intelligent tracking allowing it to automatically control itself for a majority of it's operation. We then realized that its super simple to make it adaptable to anything! So in the end, this project is a robust 2 axis gimbal with a mounting solution allowing anything to be mounted easily for use in the future.
 
+## Assembly guide
+A complete guide to printing, assembly, wiring and programming can be found [here](https://docs.google.com/presentation/d/1axM6zSbhQgakMfhfwyYygMVe3PKqu1EDHwFVl_Ch5AA/edit?usp=sharing).
+
 ## Bom:
 See the BOM.csv for the BOM. It includes everything you would need to build it assuming you had only filament. See the google doc below for what the HackClub funding would be spent on, as thats the materials I still need.
 
