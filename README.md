@@ -12,6 +12,9 @@ Potatomatic started as a project to move a 5.5lb potato cannon reliably on a rob
 ## Bom:
 See the BOM.csv for the BOM. It includes everything you would need to build it assuming you had only filament. See the google doc below for what the HackClub funding would be spent on, as thats the materials I still need.
 
+** If you dont have anything, use the BOM.csv **
+** I will be purchasing from the google doc BOM, as it omits things I already have **
+
 All of the sourcing and stuff was done on this google doc:
 [Google Doc BOM](https://docs.google.com/document/d/13_K_9BwoxUnn-ND7bYpN881mAYJAPF880q18yzIybXw/edit?usp=sharing)
 See the "sourcing" tab for the real BOM. The first page is a general list without prices or source locations. Note that prices are calculated for Utah.
