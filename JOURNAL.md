@@ -235,7 +235,7 @@ Another thing we fixed was the pulley being seperate in the turret base model
 <img width="715" height="528" alt="{19069945-130D-413F-8599-325747CD0E2C}" src="https://github.com/user-attachments/assets/7ac4433b-348e-46e3-9857-af76f471a24b" />
 
 Before they were seperate bodies that would not export and print correctly, but my friend reminded me that the combine tool exists, and we were able to get that fixed. I will lend him filament and he will lend me some machine time on his printer.
-
+The 
 I have also been running the printer for some of the parts. Below are images of what they are turning out like.
 
 <img width="1090" height="1448" alt="image" src="https://github.com/user-attachments/assets/27634333-56cc-4b90-8446-b70f51ef4365" />
@@ -244,3 +244,29 @@ I have also been running the printer for some of the parts. Below are images of 
 
 
 ** Total time spent: 0.5 hours **
+
+# June 14: Assmebly guide, exporting cad, fixing return reasons
+
+I got returned for the following reason:
+
+<img width="591" height="171" alt="{4D03D1D8-CFE8-400F-AE08-8D4B1913FE48}" src="https://github.com/user-attachments/assets/e6618fe8-9570-4316-a230-29bf41746f7c" />
+
+I broke that down into things that I am able to solve today:
+
+ - Cad files in step format
+   - Separate folder
+   - Assembled
+   - Individual files
+ - Assembly instructions with images
+ - Clarify I wont be buying filament with grant
+ - Singular BOM with links and prices
+   - Clarify bom with what I have vs everything you need.
+
+THe CAD files are now all available here: [link](https://github.com/YetAnotherNotHacking/potatomatic/tree/main/cad)
+Assembly instructions are available here: [link](https://docs.google.com/presentation/d/1axM6zSbhQgakMfhfwyYygMVe3PKqu1EDHwFVl_Ch5AA/edit?usp=sharing)
+
+The clarifications on funding have already been applied to the readme.
+
+The assembly guide took about 1.5 hours, collecting all of the slice screenshots, cad screenshots, organizing everything, hiding parts of the model and writing all of the explanations was quite time consuming. I also spent about 30 minutes exporting everything from fusion and trying to organize it a little bit, as well as writing a couple of notes about what the parts were and how many were needed that are also in the assembly guide. I also collected links to put them into the assembly guide. I had to find some way to explain the belt, I dont have anything so I found a youtube video that explains it pretty well and in a short form factor. Just note that isnt my media.
+
+** Total time spent: 2.0 hours **
