@@ -17,6 +17,8 @@ All of the sourcing and stuff was done on this google doc:
 See the "sourcing" tab for the real BOM. The first page is a general list without prices or source locations. Note that prices are calculated for Utah.
 
 ## Project Cost Breakdown
+**For HackClub reviewer: I will NOT be purchasing filament with the project grant. I have already printed all of the components out with my own funds using my PETG.**
+
 
 ### Summary
 
